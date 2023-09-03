@@ -1,4 +1,3 @@
-import React, { ReactElement, useState } from "react";
 import "./FlipCard.css";
 
 interface FlipCardProps {
@@ -15,7 +14,7 @@ const defaultFrontContent = [
   "Detail 2",
   "Detail 3",
   "Detail 4",
-  "Detail 5"
+  "Detail 5",
 ];
 
 const defauntBackContent =
@@ -27,7 +26,7 @@ const FlipCard = ({
   frontImage,
   backTitle = "Back Title",
   backContent = defauntBackContent,
-  backImage
+  backImage,
 }: FlipCardProps) => {
   return (
     <div className="flip-card-container">
