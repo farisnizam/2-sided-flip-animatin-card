@@ -1,6 +1,4 @@
 # 2-sided-flip-animatin-card
-Created with CodeSandbox
-</br>
 
 ## Setup Project:
 
