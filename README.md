@@ -22,6 +22,9 @@ Description:
 The **`FlipCard`** component is a reusable React component that implements a 2-sided flip animation card. 
 It allows users to interact with a card by hover on it to reveal content on both the front and back sides.
 
+### Live Demo
+https://dt32vh-3000.csb.app/
+
 ### How It Works:
 
 The **`FlipCard`** detect when the user hover on the card and change view between the front and back sides.
