@@ -16,7 +16,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Component Name: FlipCard
 
-Description:
+### Overview:
 The **`FlipCard`** component is a reusable React component that implements a 2-sided flip animation card. 
 It allows users to interact with a card by hover on it to reveal content on both the front and back sides.
 
